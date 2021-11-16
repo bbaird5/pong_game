@@ -8,3 +8,5 @@ screen.title("Pong")
 
 
 screen.exitonclick()
+
+asdf
